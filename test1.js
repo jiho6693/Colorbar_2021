@@ -1,6 +1,6 @@
 const container = document.querySelector('#container');
 const SQUARE_NUM = 2000;
-const colors = ['#c6045a', '#35a052', '##4a5f7d', '#494b4a', '#a6a6a6', '#7d7a73', '#efeb5b', '#000000', '##FFFF00', '#966f33'];
+const colors = ['#c6045a', '#06adbc', '#286047', '#efe337', '#b9272b', '#dcf7f4', '#536472', '#656e74', '#2b2b2b', '#1a4e69', '#fdb205', '#731b1e', '#8c152c', '#00a917' ];
 
 for(let i=0; i<SQUARE_NUM; i++) {
   const square = document.createElement('div');
